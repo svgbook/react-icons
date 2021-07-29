@@ -1,8 +1,21 @@
 {
   "name": "@svgbook/react-icons",
   "version": "0.0.1",
-  "main": "index.js",
+  "author": "SVGBook",
+  "keywords": [
+    "react",
+    "icons",
+    "svg",
+    "inline",
+    "vue",
+    "svgbook",
+    "design",
+    "library"
+  ],
   "license": "MIT",
+  "repository": "svgbook/svgbook-icons",
+  "sideEffects": false,
+  "main": "index.js",
   "module": "dist/index.esm.js",
   "files": [
     "dist"
